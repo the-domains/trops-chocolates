@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Trop's Chocolates]]></title>
         <description><![CDATA[Trop's Chocolates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trops-chocolates/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 14 May 2016 19:06:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/trops-chocolates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Instagram for Business]]></title>
+            <description><![CDATA[<article><h1>Instagram for Business</h1><p>Social media is an incredibly powerful tool - and Instagram is one of the most powerful, so why not use it to its full advantage? With well over 400 million users worldwide, there is an incredibly large audience just waiting to discover your brand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/274ad43296679c972aa8df4a6d88c8433c0b45e4.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/instagram-for-business/</link>
+            <guid isPermaLink="false">aaa7214a-42bb-49b7-b7d3-9df4cb12e738</guid>
+            <pubDate>Sat, 14 May 2016 19:06:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Space odyssey: photographer Thomas Ruff heads to the moon with new work.]]></title>
             <description><![CDATA[<article><h1>Space odyssey: photographer Thomas Ruff heads to the moon with new work.</h1><p>The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the Art Gallery of Ontario's 'Object Relations', a major solo show, opening this month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's latest series of work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a09fa223ef7576c2280cc4791191f7651bcb1.jpg"></article>]]></description>

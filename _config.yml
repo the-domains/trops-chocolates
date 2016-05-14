@@ -1,0 +1,14 @@
+layout_spectrum: 0.803382612997666
+typography_spectrum: 0.9421738020610064
+color:
+  brandStrength: 0.5315048303455114
+  lightness: 0.09856002009473741
+  saturation: 0.12026867317035794
+  rhythmicContrast: 0.2160594139713794
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: "Trop's Chocolates"
